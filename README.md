@@ -1,6 +1,6 @@
 # Drone_Tracker_Python
 Drone tracking algorithm implementation in python based on older algorithm implemented in Matlab (see matlab_drone_tracker_project_report.docx)
-This project's goal was to design a real time algorithm that enables a drone with a camera to track another drone.
+<br>This project's goal was to design a real time algorithm that enables a drone with a camera to track another drone.
 <br>Full project description can be found in the project report file: python_drone_tracker_project_report.pdf
 
 
