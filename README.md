@@ -29,7 +29,7 @@ Drone tracking algorithm implementation in python based on older algorithm imple
 * Git -> https://git-scm.com/download/win
 * Additional files
   * bvlc_alexnet - a folder with the neural network configuration and Caffe model <b> TODO: link to Drive </b>
-   * make sure the files deploy_fc7.prototxt and bvlc_alexnet.caffemodel are present
+    * make sure the files deploy_fc7.prototxt and bvlc_alexnet.caffemodel are present
   * Drone movies (GOPR0010.MP4, GOPR0014.mp4) - <b> TODO: link to Drive </b>
 * Edit paths in Python code
   * Main_Drine_Tracking.py - net Caffe model path (lines 21-22)
